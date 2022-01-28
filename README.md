@@ -20,10 +20,13 @@ sql statement.
 
 ## Setup
 
-This code will run on Python 3.9x. You will need to import below packages :
-1. cassandra-driver - the python cassandra database driver
-2. jupyter - this package allows you to open and run Jupyter notebooks
+This code will run on Python 3.9x. You will need to import below python packages :
+1. cassandra-driver 
+2. jupyter 
 3. Pandas
 4. Numpy
+5. glob
+6. json
+7. csv
 
 The rest of the packages imported in Part I first cell should be available by default in Python 3.9x
